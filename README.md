@@ -1,6 +1,7 @@
-# صاشة
+# WHAM
 
 A new Flutter project.
+IS ABOUT CLOTHING BRAND
 
 ## Getting Started
 
